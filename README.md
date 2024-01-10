@@ -83,4 +83,88 @@ Prepare for Interview
 
     **Answer:** C. Applies changes to the infrastructure
 
+11. **Question:** What is the purpose of the `terraform destroy` command in Terraform?
+    - A. Generates an execution plan
+    - B. Initializes a new Terraform project
+    - C. Applies changes to the infrastructure
+    - D. Destroys the entire infrastructure
+
+    **Answer:** D. Destroys the entire infrastructure
+
+12. **Question:** Which file in Terraform is commonly used for defining variables and input values?
+    - A. `main.tf`
+    - B. `variables.tf`
+    - C. `outputs.tf`
+    - D. `terraform.tfvars`
+
+    **Answer:** B. `variables.tf`
+
+13. **Question:** In Terraform, what does the `locals` block allow you to do?
+    - A. Declare local variables for use within the configuration
+    - B. Define provider-specific settings
+    - C. Specify resource dependencies
+    - D. Enable remote state management
+
+    **Answer:** A. Declare local variables for use within the configuration
+
+14. **Question:** What is the purpose of the `count` parameter in a Terraform resource block?
+    - A. Specifies the number of resources to create
+    - B. Defines the resource type
+    - C. Declares input variables
+    - D. Configures the resource's dependencies
+
+    **Answer:** A. Specifies the number of resources to create
+
+15. **Question:** How does Terraform handle sensitive information, such as API keys or passwords?
+    - A. It automatically encrypts sensitive information in the state file
+    - B. It stores sensitive information in clear text in the state file
+    - C. Sensitive information is not supported in Terraform
+    - D. It relies on the cloud provider's security mechanisms
+
+    **Answer:** A. It automatically encrypts sensitive information in the state file
+
+16. **Question:** What is the purpose of the `terraform remote` command in earlier versions of Terraform?
+    - A. Creates a new Terraform project
+    - B. Configures remote state management
+    - C. Applies changes to the infrastructure
+    - D. Initializes a new backend
+
+    **Answer:** B. Configures remote state management
+
+17. **Question:** Which of the following commands is used to format and validate Terraform code?
+    - A. `terraform validate`
+    - B. `terraform fmt`
+    - C. `terraform check`
+    - D. `terraform lint`
+
+    **Answer:** B. `terraform fmt`
+
+18. **Question:** What is the purpose of the `depends_on` attribute in a Terraform resource block?
+    - A. Specifies resource dependencies
+    - B. Defines variable dependencies
+    - C. Configures resource naming
+    - D. Enables version control
+
+    **Answer:** A. Specifies resource dependencies
+
+19. **Question:** What does the `terraform refresh` command do?
+    - A. Initializes a new Terraform project
+    - B. Refreshes the state file against the real resources
+    - C. Applies changes to the infrastructure
+    - D. Destroys the entire infrastructure
+
+    **Answer:** B. Refreshes the state file against the real resources
+
+20. **Question:** In Terraform, what is the purpose of the `locals` block allow you to do?
+    - A. Declare local variables for use within the configuration
+    - B. Define provider-specific settings
+    - C. Specify resource dependencies
+    - D. Enable remote state management
+
+    **Answer:** A. Declare local variables for use within the configuration
+
+    
+
+
+
 
